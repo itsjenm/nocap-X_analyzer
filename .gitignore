@@ -17,3 +17,6 @@ Thumbs.db
 
 # Ignore virtual environment
 .venv/
+
+# Ignore Python cache files
+__pycache__/
