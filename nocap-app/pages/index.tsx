@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 export default function Home() {
   return (
     <>
-      <div className="flex justify-center items-center h-screen">
+      <div>
         <TweetAnalysis />
       </div>
       <footer><PoweredBy /></footer>

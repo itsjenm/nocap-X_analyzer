@@ -42,7 +42,7 @@ def analyze_credibility(user_profile: str, sentiment_score: float, misleading_tw
     engagement_score = (user_profile["followers_count"] / max_followers) + \
                        (user_profile["tweets_count"] / max_tweets)
 
-    misleading_penalty = len(misleading_tweets) * 2
+    misleading_penalty = len(misleading_tweets) * 5  # Penalize for misleading tweets
 
     raw_score = 0.6 * engagement_score + 0.3 * sentiment_score - misleading_penalty
 

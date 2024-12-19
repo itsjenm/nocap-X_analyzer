@@ -5,6 +5,9 @@ Watch the following Loom video for a visual guide on running the nocap-X_analyze
 [![Watch the video](https://www.loom.com/embed/dea62ee3275a4aea95c49b5a9c59cdd5?sid=6f53bc2f-6880-4705-8c5a-5940887c6d4c)](https://www.loom.com/share/dea62ee3275a4aea95c49b5a9c59cdd5?sid=67b8de99-a9b1-439e-b1d0-81914d5e71ae)
 
 
+![alt text](image.png)
+
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Setup Backend Server](#setup-backend-server)
